@@ -44,11 +44,6 @@ This repository contains my **HTML learning journey**, including practice progra
 🚀 Building Web Development Skills
 ```
 
----
-```
-
----
-
 ## 👨‍💻 Author
 
 ### **itsdip07**
