@@ -13,7 +13,6 @@ This repository contains my **HTML learning journey**, including practice progra
 📚 New topics and examples will be added as I continue learning and improving my web development skills.
 
 ---
----
 
 ## 🛠️ Technologies
 
