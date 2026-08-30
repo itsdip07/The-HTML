@@ -1,4 +1,4 @@
-# 🌐 The HTML 12
+# 🌐 The HTML 1
 
 > 🚀 **A colorful collection of HTML concepts, examples, and practice programs — from basic structure to multimedia and semantic HTML.**
 
