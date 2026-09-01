@@ -1,4 +1,4 @@
-# 🌐 The HTML5
+# 🌐 The HTML
 
 > 🚀 **A colorful collection of HTML concepts, examples, and practice programs — from basic structure to multimedia and semantic HTML.**
 
